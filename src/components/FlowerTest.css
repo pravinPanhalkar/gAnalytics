@@ -1,0 +1,13 @@
+.imgs {
+    object-fit: "contain";
+    /* transform: rotate(90deg); */
+    /* max-width: 100%;
+    max-height: 100%; */
+    z-index: 100000000;
+}
+
+.imgs1 {
+    transform: rotate(90deg);
+    /* max-width: 100%;
+    max-height: 100%; */
+}
